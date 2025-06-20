@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/azumia-azu-front-mentor-solution/blog-preview-card.git](https://github.com/azumia-azu-front-mentor-solution/blog-preview-card.git)
+- Live Site URL: [https://azumia-azu-front-mentor-solution.github.io/blog-preview-card](https://azumia-azu-front-mentor-solution.github.io/blog-preview-card/)
 
 ## My process
 
